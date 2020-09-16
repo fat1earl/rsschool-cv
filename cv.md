@@ -12,7 +12,7 @@ Figma, Adobe, Photoshop, Corel Draw.
 
 ### EMPLOYMENT HISTORY ###
 Marketer
-Tourist complex “Shishki” ~ 01/2017 - PRESENT Minsk, Belarus
+Tourist complex 'Shishki' ~ 01/2017 - PRESENT Minsk, Belarus
 - Advertising services online and offline
 - Development of printed products
 - Implementation of advertising companies
@@ -20,23 +20,23 @@ Tourist complex “Shishki” ~ 01/2017 - PRESENT Minsk, Belarus
 - SEO site optimization, SMM
 
 Marketer
-“Rentland” ~ 08/2016 - 01/2017 Minsk, Belarus
+'Rentland' ~ 08/2016 - 01/2017 Minsk, Belarus
 - SEO site promotion, SMM
 - Organized a crowdfunding campaign
 - Shot and edited training videos
 
 System administrator
-“Belarusbank” ~ 08/2013 - 11/2013 Drybin, Belarus
+'Belarusbank' ~ 08/2013 - 11/2013 Drybin, Belarus
 - Administration of programs like Lotus Notes, Novell, Gran,
 Proview, Symantec Endpoint Protection, ANIS, SAP, Client-Bank
 - Operator of ATMs and information kiosks, accompanied a fleet of
 30 PCs and hardware to them (printers, scanners) and servers.
 Leading specialist with corporate clients ~ 07/2013 - 05/2014
-“Belarusbank” Drybin, Belarus
+'Belarusbank' Drybin, Belarus
 - Signed contracts for servicing corporate clients
 
 ### EDUCATION ###
-High residence, «Belarusian State Agricultural Academy», Gorky
+High residence, 'Belarusian State Agricultural Academy', Gorky
 Market researcher/economist
 SEPTEMBER 2009 – JUNE 2013
 

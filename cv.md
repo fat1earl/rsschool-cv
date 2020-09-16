@@ -3,7 +3,8 @@ Contacts: Minsk, Belarus, fat1earl@gmail.com +375 (29) 234-10-91 (telegram)
 Date of birth: 10.03.1992 
 
 ### PROFILE ### 
-Web development course IT-school MyFreedom March 2020 – Present
+Web development course IT-school MyFreedom 
+March 2020 – Present
 
 ### CODING: ###
 HTML, CSS, SCSS, Bootstrap, JavaScript, React, Type Script, DOM, Node.js, Git, Ajax, Fetch, Parcel, jQuery, Eslint, Npm, Yarn.

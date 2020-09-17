@@ -46,4 +46,4 @@ SEPTEMBER 2009 – JUNE 2013
 GitHub: [https://github.com/fat1earl](https://github.com/fat1earl)
 
 ### LANGUAGES ###
-English (pre-intermediate)
+English (pre-intermediate).

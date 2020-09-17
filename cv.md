@@ -34,7 +34,7 @@ Proview, Symantec Endpoint Protection, ANIS, SAP, Client-Bank
 - Operator of ATMs and information kiosks, accompanied a fleet of
 30 PCs and hardware to them (printers, scanners) and servers.
 Leading specialist with corporate clients ~ 07/2013 - 05/2014
-'Belarusbank' Drybin, Belarus
+'Belarusbank' Dribin, Belarus
 - Signed contracts for servicing corporate clients
 
 ### EDUCATION ###
